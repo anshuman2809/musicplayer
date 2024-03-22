@@ -14,6 +14,9 @@ Start/Stop playback control
 ## Layout
 ![alt text](layout.png)
 
+## URL
+https://hipstrumentals.com/
+
 ## Functionalities
 
 - Allows users to enter a URL for a song in a designated EditText field.
