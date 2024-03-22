@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="defaultURL">https://hipstrumentals.com/wp-content/uploads/2023/11/Juice-WRLD-Ft.-Young-Thug-Bad-Boy-Instrumental-Prod.-By-Pi_erre-Bourne.mp3</string>
+    <string name="hintprompt">Click on + button to add a URL</string>
+    <string name="enter_url">Enter URL (or press enter for default)</string>
+    <string name="ok_button">OK</string>
+</resources>
